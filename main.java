@@ -12,6 +12,6 @@ public class main {e
                 count++;
         }
 
-        System.out.println("That character appear " +count+" time(s).");
+        System.out.println("That character appear  is --" +count+" time(s).");
     }
 }
